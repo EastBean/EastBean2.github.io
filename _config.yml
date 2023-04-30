@@ -10,3 +10,4 @@ github_username:EastBean
 
 # Build settings
 markdown: kramdown
+remote_theme: creative theme
